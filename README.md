@@ -34,7 +34,7 @@ images and trailer of the movie/ series, and delete some existing movie, series 
 ![Screenshot](Admin-dashboard.PNG?raw=true)
 
 ### View movie/series details
-![Screenshot](admin-list-movies.PNG?raw=true)
+![Screenshot](Admin-movies.PNG?raw=true)
 
 ### Add new movie/series
 ![Screenshot](Admin-addMovie.PNG?raw=true)
