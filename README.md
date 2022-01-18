@@ -18,26 +18,26 @@ images and trailer of the movie/ series, and delete some existing movie, series 
 
 ## Screenshots of the Netflix-Clone application:
 ### Featured-Movie
-![Screenshot](netflix-home.PNG?raw=true)
+![Screenshot](https://github.com/skrishnan2001/Netflix-Clone/blob/master/screenshots/netflix-home.PNG)
 
 ### Home-screen Movie Thumbnails
-![Screenshot](netflix-home-thumbnails.PNG?raw=true)
+![Screenshot](https://github.com/skrishnan2001/Netflix-Clone/blob/master/screenshots/netflix-home-thumbnails.PNG)
 
 ### Landing/Register page
-![Screenshot](netflix-landingpage.PNG?raw=true)
+![Screenshot](https://github.com/skrishnan2001/Netflix-Clone/blob/master/screenshots/netflix-landingpage.PNG)
 
 ### Sign In page
-![Screenshot](netflix-login.PNG?raw=true)
+![Screenshot](https://github.com/skrishnan2001/Netflix-Clone/blob/master/screenshots/netflix-login.PNG)
 
 ## Screenshots of Admin Dashboard:
-### Home
-![Screenshot](Admin-dashboard.PNG?raw=true)
+### Home/User Analytics
+![Screenshot](https://github.com/skrishnan2001/Netflix-Clone/blob/master/screenshots/Admin-dashboard.PNG)
 
 ### View movie/series details
-![Screenshot](Admin-movies.PNG?raw=true)
+![Screenshot](https://github.com/skrishnan2001/Netflix-Clone/blob/master/screenshots/Admin-movies.PNG)
 
 ### Add new movie/series
-![Screenshot](Admin-addMovie.PNG?raw=true)
+![Screenshot](https://github.com/skrishnan2001/Netflix-Clone/blob/master/screenshots/Admin-addMovie.PNG)
 
 
 
